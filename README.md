@@ -6,7 +6,7 @@ This repository contains all files related to the the SEI research project title
 The replication-package folder contains all files related to the ICSE 2021 SEIP submission
 
 <ul>
-  <li>Coffee</li>
+  <li>ML Mismatch Project Introduction.pdf: File provided to interviewees to introduce the project.</li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
