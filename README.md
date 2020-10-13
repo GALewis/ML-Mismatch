@@ -1,5 +1,5 @@
 # ML-Mismatch
-ML Mismatch Study and Tools
+<b>ML Mismatch Study and Tools</b>
 
 This repository contains all files related to the the SEI research project titled "Characterizing and Detecting Mismatch in ML Systems."
 
