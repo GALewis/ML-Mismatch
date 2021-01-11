@@ -6,7 +6,7 @@ This repository contains all files related to the the SEI research project title
 The replication-package folder contains all files related to the ICSE 2021 WAIN 2021 workshop submission
 
 <ul>
-  <li>ICSE_SEIP_2021_ML_Mismatch.pdf: Submission</li>
+  <li>WAIN_2021_ML_Mismatch.pdf: Submission</li>
   <li>ML-Mismatch-Project-Introduction.pdf: Presentation provided to interviewees to introduce the project</li>
   <li>ML-Mismatch-Interview-Protocol.docx: Interview guide</li>
   <li>Mismatch-Open-Coding-Final.xlsx: Anonymized mismatches extracted from interview</li>
